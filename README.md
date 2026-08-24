@@ -1,4 +1,4 @@
 # GTA4RE Including Compiled Scripts
 
-Thanks to everyone helps plugin-sdk!
-Thanks to DK22Pac!
+# Credits
+- Thanks To All Contributors of the plugin-sdk!
